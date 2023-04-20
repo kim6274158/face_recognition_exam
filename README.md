@@ -32,7 +32,6 @@ https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_w
 - 수정 코드 URL
  : https://github.com/kim6274158/face_recognition_exam/blob/main/face_recognition_change.ipynb
 
-* ![image](https://user-images.githubusercontent.com/127082884/233367800-be2b45d1-d2e2-4e90-895e-ad072df02c39.png)
 
 나의 깃허브 주소
 https://github.com/kim6274158/face_recognition_exam
