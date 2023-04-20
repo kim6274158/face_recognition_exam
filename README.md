@@ -8,13 +8,14 @@ https://github.com/ageitgey/face_recognition
 https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam_faster.py
 
 
-정리내용.
+###정리내용.
 
 1. 얼굴인식 원 소스 코드 주소 URL
 
 2. 자신이 찾은 얼굴인식 개요
 
 3. 장단점 분석
+
 
 1. 얼굴인식 원 소스 코드 주소 URL
 
@@ -31,19 +32,7 @@ https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_w
 - 수정 코드 URL
  : https://github.com/kim6274158/face_recognition_exam/blob/main/face_recognition_change.ipynb
 
-* 예시 실행 화면
-
-
-
-
-
-
-
-
-
-
-
-
+* ![image](https://user-images.githubusercontent.com/127082884/233367800-be2b45d1-d2e2-4e90-895e-ad072df02c39.png)
 
 나의 깃허브 주소
 https://github.com/kim6274158/face_recognition_exam
